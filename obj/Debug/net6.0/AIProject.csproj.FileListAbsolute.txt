@@ -1,0 +1,15 @@
+C:\Users\User\home\Learning\Csharp\AIProject\bin\Debug\net6.0\AIProject.exe
+C:\Users\User\home\Learning\Csharp\AIProject\bin\Debug\net6.0\AIProject.deps.json
+C:\Users\User\home\Learning\Csharp\AIProject\bin\Debug\net6.0\AIProject.runtimeconfig.json
+C:\Users\User\home\Learning\Csharp\AIProject\bin\Debug\net6.0\AIProject.dll
+C:\Users\User\home\Learning\Csharp\AIProject\bin\Debug\net6.0\AIProject.pdb
+C:\Users\User\home\Learning\Csharp\AIProject\obj\Debug\net6.0\AIProject.csproj.AssemblyReference.cache
+C:\Users\User\home\Learning\Csharp\AIProject\obj\Debug\net6.0\AIProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\home\Learning\Csharp\AIProject\obj\Debug\net6.0\AIProject.AssemblyInfoInputs.cache
+C:\Users\User\home\Learning\Csharp\AIProject\obj\Debug\net6.0\AIProject.AssemblyInfo.cs
+C:\Users\User\home\Learning\Csharp\AIProject\obj\Debug\net6.0\AIProject.csproj.CoreCompileInputs.cache
+C:\Users\User\home\Learning\Csharp\AIProject\obj\Debug\net6.0\AIProject.dll
+C:\Users\User\home\Learning\Csharp\AIProject\obj\Debug\net6.0\refint\AIProject.dll
+C:\Users\User\home\Learning\Csharp\AIProject\obj\Debug\net6.0\AIProject.pdb
+C:\Users\User\home\Learning\Csharp\AIProject\obj\Debug\net6.0\AIProject.genruntimeconfig.cache
+C:\Users\User\home\Learning\Csharp\AIProject\obj\Debug\net6.0\ref\AIProject.dll
